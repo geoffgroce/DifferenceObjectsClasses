@@ -19,3 +19,7 @@ A class is basically a blueprint in Java. According to Horstmann, “a programme
 
 ---
 
+| Aspect | Classs | Object |
+| --- | --- | --- |
+| Nature | Blueprint/template | Instance of a class |
+---
