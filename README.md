@@ -25,4 +25,4 @@ A class is basically a blueprint in Java. According to Horstmann, “a programme
 | Nature | Blueprint/template | Instance of a class |
 | Existence | Ligical/abstract | Real/usable in memory |
 | Purpose | Defines structure and behavior | Holds actual data and performs actions |
-| Example analogy | Type of food (pizza) | Size, crust type, and toppings on pizza | 
+| Example analogy | Type of food (pizza) | Aspects of food (size, crust type, and toppings on pizza) | 
