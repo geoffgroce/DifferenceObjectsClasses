@@ -26,3 +26,8 @@ A class is basically a blueprint in Java. According to Horstmann, “a programme
 | Existence | Ligical/abstract | Real/usable in memory |
 | Purpose | Defines structure and behavior | Holds actual data and performs actions |
 | Example analogy | Type of food (pizza) | Aspects of food (size, crust type, and toppings on pizza) | 
+
+---
+
+**References**
+Horstmann, C. 2017. Big Java Late Objects. John Wiley & Sons, Inc. https://online.vitalsource.com/reader/books/9781119321071/epubcfi/6/4[%3Bvnd.vst.idref%3Dbjlo2e_fm]!/4[bjlo2e_fm]/2[_idContainer020]/22/1:27[%20Ph%2Cam]
