@@ -8,9 +8,9 @@ While objects and classes may have some relation in Java, they have many importa
 
 **Objects:**
 An object derives from within a class. Per Horstmann, the definition of an object is that it is a “value of a class type” (Horstman, p. G-1). The object itself is a representation of a usable entity with an actual value. For instance:
-\n•	If there is a class named “pizza,” then:
-  \no	An extra-large pepperoni is an object.
-  \no	A personal-pan anchovy is an object.
+/n•	If there is a class named “pizza,” then:
+  /no	An extra-large pepperoni is an object.
+  /no	A personal-pan anchovy is an object.
 
 ---
 
