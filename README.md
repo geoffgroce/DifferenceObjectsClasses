@@ -2,7 +2,7 @@
 Difference-Objects-Classes
 
 **Objects and Classes:**
-While objects and classes may have some relation in Java, they have many important differences between them. Below I will define what Java objects and Java classes are, as well as their characteristics. This will help to show their different conceptual roles.
+<br>While objects and classes may have some relation in Java, they have many important differences between them. Below I will define what Java objects and Java classes are, as well as their characteristics. This will help to show their different conceptual roles.<br />
 
 ---
 
@@ -15,7 +15,7 @@ An object derives from within a class. Per Horstmann, the definition of an objec
 ---
 
 **Classes:**
-A class is basically a blueprint in Java. According to Horstmann, “a programmer doesn’t implement a single object. Instead, the programmer provides a class. A class describes a set of objects with the same behavior.” (Horstmann, p. 376). This shows a main difference between a class and an object, as a class organizes objects with the same goal. A class named “pizza” may define properties such as size and toppings.
+<br>A class is basically a blueprint in Java. According to Horstmann, “a programmer doesn’t implement a single object. Instead, the programmer provides a class. A class describes a set of objects with the same behavior.” (Horstmann, p. 376). This shows a main difference between a class and an object, as a class organizes objects with the same goal. A class named “pizza” may define properties such as size and toppings.<br />
 
 ---
 
@@ -30,4 +30,4 @@ A class is basically a blueprint in Java. According to Horstmann, “a programme
 ---
 
 **References:**
-Horstmann, C. 2017. Big Java Late Objects. John Wiley & Sons, Inc. https://online.vitalsource.com/reader/books/9781119321071/epubcfi/6/4[%3Bvnd.vst.idref%3Dbjlo2e_fm]!/4[bjlo2e_fm]/2[_idContainer020]/22/1:27[%20Ph%2Cam]
+<br>Horstmann, C. 2017. Big Java Late Objects. John Wiley & Sons, Inc. https://online.vitalsource.com/reader/books/9781119321071/epubcfi/6/4[%3Bvnd.vst.idref%3Dbjlo2e_fm]!/4[bjlo2e_fm]/2[_idContainer020]/22/1:27[%20Ph%2Cam]<br />
